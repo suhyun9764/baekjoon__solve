@@ -16,6 +16,7 @@ public class ch03_11659 {
 		 */
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	 
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		int N = Integer.parseInt(st.nextToken());
 		int m = Integer.parseInt(st.nextToken());
